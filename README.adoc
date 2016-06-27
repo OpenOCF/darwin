@@ -1,0 +1,3 @@
+= deprecated
+
+go to https://github.com/iotk/iochibity[iotk/iochibity] and check out the darwin-java branch.
